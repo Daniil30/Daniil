@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+  font-family: sans-serif;
+  color: #2e353d;
+  font-size: 40px;
+  font-weight: 20;
+  text-align: center;
+}
+
+.header{
+    border-width: 0.14px;
+    border-color: #b5b7ba;
+    border-style: solid;
+    background-color: #dfdfdf;
+    height: 100px;
+    text-align: center;
+    padding-top: 22px;
+    box-sizing: border-box;
+    margin-bottom: 70px;
+}
+
+.header a {
+    margin-right: 47px;
+    margin-left: 47px;
+}
